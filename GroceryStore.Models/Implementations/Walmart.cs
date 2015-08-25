@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using GroceryStore.Models.Interfaces;
 
 namespace GroceryStore.Models.Implementations
@@ -13,6 +12,8 @@ namespace GroceryStore.Models.Implementations
     /// </summary>
     public class Walmart : IStore
     {
+        #region Constructor
+
         /// <summary>
         /// Constructs a <see cref="Walmart"/> object.
         /// </summary>
@@ -41,7 +42,12 @@ namespace GroceryStore.Models.Implementations
             Continent = continent;
             Latitude = latitude;
             Longitude = longitue;
+            Id = new Guid();
         }
+
+        #endregion
+
+        #region Properties
 
         /// <inheritdoc />
         public IEnumerable<IEmployee> Employees
@@ -112,5 +118,14 @@ namespace GroceryStore.Models.Implementations
             get;
             private set;
         }
+
+        /// <inheritdoc />
+        public Guid Id
+        {
+            get;
+            private set;
+        }
+
+        #endregion
     }
 }

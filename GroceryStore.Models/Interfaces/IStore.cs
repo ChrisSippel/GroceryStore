@@ -12,6 +12,11 @@ namespace GroceryStore.Models.Interfaces
     interface IStore
     {
         /// <summary>
+        /// The ID of the store.
+        /// </summary>
+        Guid Id { get; }
+
+        /// <summary>
         /// All of the employees that work at the store.
         /// </summary>
         IEnumerable<IEmployee> Employees { get; }
