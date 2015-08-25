@@ -1,0 +1,17 @@
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\obj\Debug\GroceryStore.Model.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\xunit.abstractions.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\GroceryStore.Model.UnitTests.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\GroceryStore.Model.UnitTests.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\GroceryStore.Models.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\xunit.assert.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\xunit.core.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\GroceryStore.Models.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\xunit.assert.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\xunit.assert.xml
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\xunit.core.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\bin\Debug\xunit.core.xml
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\obj\Debug\GroceryStore.Model.UnitTests.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Model.UnitTests\obj\Debug\GroceryStore.Model.UnitTests.pdb

@@ -1,0 +1,5 @@
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Models\obj\Debug\GroceryStore.Models.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Models\bin\Debug\GroceryStore.Models.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Models\bin\Debug\GroceryStore.Models.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Models\obj\Debug\GroceryStore.Models.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\GroceryStore\GroceryStore.Models\obj\Debug\GroceryStore.Models.pdb
